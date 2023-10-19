@@ -5,7 +5,7 @@
 <!-- <h1>Olá mundo!! Bem-vindo ao PHP!!</h1> -->
 
 <?php
-
+// 
 // var_dump($posts);
 // print_r($posts);
 // echo"<br><br>";
